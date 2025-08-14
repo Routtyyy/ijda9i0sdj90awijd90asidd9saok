@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "openaiApiKey": "",
+    "panelChannelId": "1405127329964884042",
+    "ticketsCategoryId": "1405127329964884040",
+    "adminRoleIds": ["1405129693237219349", "1405129693237219349"],
+    "ticketNamePrefix": "ticket-",
+    "modChannelId": "1405514669925470238",
+    "whitelistUsers": ["1", "1"]
+  }
+  
